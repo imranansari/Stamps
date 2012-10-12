@@ -15,6 +15,6 @@
 #endif
 
 
-#import "Constants.h"
+#import "StampsConstants.h"
 #import "NSCache+Shared.h"
 
